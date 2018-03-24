@@ -1,0 +1,60 @@
+title: Kyle Kamperschroer
+description: > # this means to ignore newlines until "baseurl:"
+  Kyle Kamperschroer's corner of the web
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kylek.me" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+blog_theme: light # Or use dark
+
+# Profile information
+name: Kyle Kamperschroer
+tagline: Senior Software Developer
+about-description:
+  Hello! My name is Kyle Kamperschroer and I am a full stack software developer, currently employed by Fons Inc. My previous employers include Microsoft, SAP and Attack Pattern LLC.
+  <br /><br />
+
+  I obtained my Masters in Software Engineering and Bachelors of Computer Science both from the University of Wisconsin - La Crosse.
+  <br /><br />
+
+  I am a passionate and hard working developer and I take a lot of pride in my craft. I am always looking for ways to learn and grow as a developer and a teammate.
+  <br /><br />
+
+  If you wish to contact me please use your preferred method below. Thanks for stopping by.
+pic: me.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+
+# Contact links
+email: kyle@kylek.me # Add your Email address
+# phone: # Add your Phone number
+# website: kylek.me # Add your website, do not add http://
+linkedin: kylekamperschroer # Add your Linkedin handle
+github: kkamperschroer # Add your Github handle
+twitter: kylekampy
+
+# Tracker
+analytics: UA-22807855-4
+
+# Comments
+discus-identifier: # Add your Disqus identifier
+
+# Important settings
+assets:
+  sources:
+    - assets/fonts
+    - assets/img
+    - assets/js
+    - assets/stylesheets
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+gems:
+  - jekyll-feed
+  - jekyll-assets
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+include: [_pages]
