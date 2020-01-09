@@ -1,4 +1,4 @@
-This repo is the source for my Github hosted page, served at https://kkamperschroer.github.io/ and https://kylek.me
+This repo is the source for my Github hosted page, served at https://kylekampy.github.io/ and https://kylek.me
 
 All of the actual hard work was done by someone else who created this theme. I just modified it for my needs.
 
