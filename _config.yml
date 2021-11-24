@@ -10,7 +10,7 @@ blog_theme: light # Or use dark
 name: Kyle Kamperschroer
 tagline: Senior Software Developer
 about-description:
-  Hello! My name is Kyle Kamperschroer and I am a full stack software developer, currently employed by Microsoft working on App Center and Azure Notification Hubs. My previous employers include SAP, Attack Pattern (now Facet) and Fons.
+  Hello! My name is Kyle Kamperschroer and I am a software developer, currently employed by Microsoft as a senior engineering manager working with an incredible team on <a href="https://azure.microsoft.com/en-us/services/notification-hubs/" target="blank">Azure Notification Hubs</a>. My previous employers include <a href="https://www.sap.com/index.html" target="_blank">SAP</a>, <a href="https://www.facet.net/" target="_blank">Facet</a> and <a href="https://fons.com/" target="_blank">Fons</a>.
   <br /><br />
 
   I obtained my Masters in Software Engineering and Bachelors of Computer Science both from the University of Wisconsin - La Crosse.
@@ -23,7 +23,7 @@ about-description:
 pic: me.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: kyle@kylek.me # Add your Email address
+email: kyle@kampy.dev # Add your Email address
 # phone: # Add your Phone number
 # website: kylek.me # Add your website, do not add http://
 linkedin: kylekamperschroer # Add your Linkedin handle
