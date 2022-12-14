@@ -10,17 +10,12 @@ blog_theme: light # Or use dark
 name: Kyle Kamperschroer
 tagline: Senior Software Developer
 about-description:
-  Hello! My name is Kyle Kamperschroer and I am a software developer, currently employed by Microsoft as a senior engineering manager working with an incredible team on <a href="https://azure.microsoft.com/en-us/services/notification-hubs/" target="blank">Azure Notification Hubs</a>. My previous employers include <a href="https://www.sap.com/index.html" target="_blank">SAP</a>, <a href="https://www.facet.net/" target="_blank">Facet</a> and <a href="https://fons.com/" target="_blank">Fons</a>.
-  <br /><br />
-
-  I obtained my Masters in Software Engineering and Bachelors of Computer Science both from the University of Wisconsin - La Crosse.
-  <br /><br />
-
-  I am a passionate and hard working developer and I take a lot of pride in my craft. I am always looking for ways to learn and grow as a developer and a teammate.
-  <br /><br />
-
-  If you wish to contact me, please use your preferred method below. Thanks for stopping by.
-pic: me.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+  Hello! My name is Kyle Kamperschroer and I am a software developer, currently self-employed contracting on projects I care about with teams I care about.<br /><br />
+  My previous employers include Microsoft as a senior engineering manager working with an incredible team on <a href="https://azure.microsoft.com/en-us/services/notification-hubs/" target="blank">Azure Notification Hubs</a>. I've also worked for <a href="https://www.sap.com/index.html" target="_blank">SAP</a>, <a href="https://www.facet.net/" target="_blank">Facet</a> and <a href="https://fons.com/" target="_blank">Fons</a>. <br /><br />
+  I obtained my Masters in Software Engineering and Bachelors of Computer Science both from the University of Wisconsin - La Crosse. <br /><br />
+  I am a passionate and hard working developer and I take a lot of pride in my craft. I am always looking for ways to learn and grow as a developer and a teammate. <br /><br />
+  If you wish to contact me, please use your preferred method below. Thanks for stopping by.</p>
+pic: me.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: kyle@kampy.dev # Add your Email address
@@ -28,7 +23,7 @@ email: kyle@kampy.dev # Add your Email address
 # website: kylek.me # Add your website, do not add http://
 linkedin: kylekamperschroer # Add your Linkedin handle
 github: kylekampy # Add your Github handle
-twitter: kylekampy
+mastodon: https://hachyderm.io/@kampy
 
 # Tracker
 analytics: UA-22807855-4
