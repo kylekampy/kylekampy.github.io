@@ -2,7 +2,7 @@ title: Kyle Kamperschroer
 description: > # this means to ignore newlines until "baseurl:"
   Kyle Kamperschroer's corner of the web
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kylek.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kampy.dev" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: light # Or use dark
 
@@ -14,6 +14,7 @@ about-description:
   My previous employers include Microsoft as a senior engineering manager working with an incredible team on <a href="https://azure.microsoft.com/en-us/services/notification-hubs/" target="blank">Azure Notification Hubs</a>. I've also worked for <a href="https://www.sap.com/index.html" target="_blank">SAP</a>, <a href="https://www.facet.net/" target="_blank">Facet</a> and <a href="https://fons.com/" target="_blank">Fons</a>. <br /><br />
   I obtained my Masters in Software Engineering and Bachelors of Computer Science both from the University of Wisconsin - La Crosse. <br /><br />
   I am a passionate and hard working developer and I take a lot of pride in my craft. I am always looking for ways to learn and grow as a developer and a teammate. <br /><br />
+  I am also an obsessed volleyball player, organizing leagues and tournaments as Driftless Volleyball LLC.<br /><br />
   If you wish to contact me, please use your preferred method below. Thanks for stopping by.</p>
 pic: me.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
