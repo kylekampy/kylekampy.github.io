@@ -8,13 +8,13 @@ blog_theme: light # Or use dark
 
 # Profile information
 name: Kyle Kamperschroer
-tagline: Senior Software Developer
+tagline: Full-Stack Software Engineering
 about-description:
-  Hello! My name is Kyle Kamperschroer and I am a software developer, currently self-employed contracting on projects I care about with teams I care about.<br /><br />
+  Hello! My name is Kyle Kamperschroer and I am a software developer, currently self-employed consulting on projects I care about with teams I care about.<br /><br />
   My previous employers include Microsoft as a senior engineering manager working with an incredible team on <a href="https://azure.microsoft.com/en-us/services/notification-hubs/" target="blank">Azure Notification Hubs</a>. I've also worked for <a href="https://www.sap.com/index.html" target="_blank">SAP</a>, <a href="https://www.facet.net/" target="_blank">Facet</a> and <a href="https://fons.com/" target="_blank">Fons</a>. <br /><br />
   I obtained my Masters in Software Engineering and Bachelors of Computer Science both from the University of Wisconsin - La Crosse. <br /><br />
   I am a passionate and hard working developer and I take a lot of pride in my craft. I am always looking for ways to learn and grow as a developer and a teammate. <br /><br />
-  I am also an obsessed volleyball player, organizing leagues and tournaments as Driftless Volleyball LLC.<br /><br />
+  I am also an obsessed volleyball player, organizing leagues and tournaments as Driftless Volleyball LLC while building a SaaS to make that hobby more enjoyable over at https://volley.love.<br /><br />
   If you wish to contact me, please use your preferred method below. Thanks for stopping by.</p>
 pic: me.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
@@ -27,7 +27,7 @@ github: kylekampy # Add your Github handle
 mastodon: https://hachyderm.io/@kampy
 
 # Tracker
-analytics: UA-22807855-4
+analytics: G-EG9Y2G4F6H
 
 # Comments
 discus-identifier: # Add your Disqus identifier
